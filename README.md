@@ -10,7 +10,7 @@
 
 A **Foodrevo (Food Revolution)** kimagasló minőségű ételeket szállít otthonodba, prémium alapanyagokból és magas tudású séfek által készítve.
 
-**[Ismerj meg minket](https://foodrevo.hu/)** · **[Heti menü és rendelés](https://offices.foodrevo.hu/)**
+**[Ismerj meg minket](https://foodrevo.hu/)** · **[Heti menü és rendelés](https://offices.foodrevo.hu/office/order)**
 
 ## Mobilalkalmazás-frissítések
 
